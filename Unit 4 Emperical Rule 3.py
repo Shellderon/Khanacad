@@ -1,3 +1,10 @@
+# we changed this. it work now  practice problem -
+"""The lifespans of tigers in a particular zoo are 
+normally distributed. The average tiger lives [22.4] years; 
+the standard deviation is [2.7] years.
+Use the empirical rule  to estimate the probability of a tiger living less than [14.3] year
+this 
+"""
 def calc(mean,std,xxx,why):
     steps=0
     results_m=mean
